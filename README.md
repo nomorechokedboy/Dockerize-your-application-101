@@ -8,6 +8,7 @@ I. Lí thuyết:
   I.3.Tại sao lại dùng docker?
 II. Thực hành:
 Sau khi đã hiểu lí do vì sao mình giới thiệu docker cho các bạn thì bây giờ, mình sẽ giúp bạn container hóa ứng dụng của mình với docker qua vài ví dụ về java servlet, java spring và nodejs.
-  II.1.Java servlet:
-  II.2.Java spring:
-  II.3.Nodejs:
+  II.1.Một vài lệnh cơ bản của docker.
+  II.2.Java servlet:
+  II.3.Java spring:
+  II.4.Nodejs:
